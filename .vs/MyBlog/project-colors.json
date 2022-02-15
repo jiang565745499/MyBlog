@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3f0b59a-c800-4665-b3e8-1b9cd7c739b4": {
+      "ProjectGuid": "c3f0b59a-c800-4665-b3e8-1b9cd7c739b4",
+      "DisplayName": "MyBlog.WebApi",
+      "ColorIndex": 0
+    },
+    "963966bf-d8c0-4e7f-87af-5771d5e35798": {
+      "ProjectGuid": "963966bf-d8c0-4e7f-87af-5771d5e35798",
+      "DisplayName": "MyBlog.Model",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
